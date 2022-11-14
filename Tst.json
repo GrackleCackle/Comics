@@ -4,5 +4,21 @@
   "artist": "Gray",
   "author": "Gray",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Splinter City OCT Audition",
+      "volume": "0",
+      "last_updated": "1668385492",
+      "groups": {
+        "Splinter City OCT": [
+          "https://imgur.com/mMQGDkV",
+          "https://imgur.com/5FyTT0B",
+          "https://imgur.com/TUm2u58",
+          "https://imgur.com/ciZrQ9k",
+          "https://imgur.com/Pq5mM6m",
+          "https://imgur.com/UjBVIkQ"
+        ]
+      }
+    }
+  }
 }
